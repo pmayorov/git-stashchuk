@@ -1,2 +1,2 @@
 New file.txt
-Stroke on local repo
+Stroke on Github and on local repo
